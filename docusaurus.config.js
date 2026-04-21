@@ -11,10 +11,10 @@ const config = {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  url: 'https://hauppaugets.github.io',
+  baseUrl: '/hauppaugedocs/',
 
-  organizationName: 'hauppauge',
+  organizationName: 'hauppaugets',
   projectName: 'hauppaugedocs',
 
   onBrokenLinks: 'warn',
