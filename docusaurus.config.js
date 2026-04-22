@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Hauppauge Docs',
   tagline: 'WinTV Documentation',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/hcw_favicon.ico',
 
   future: {
     v4: true,
@@ -51,7 +51,7 @@ const config = {
         title: 'Hauppauge Docs',
         logo: {
           alt: 'Hauppauge Logo',
-          src: 'img/logo.svg',
+          src: 'img/hcw_square_logo.png',
         },
         items: [
           {
