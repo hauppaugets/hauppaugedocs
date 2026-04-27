@@ -10,6 +10,16 @@ const products = [
     description: 'Documentation for WinTV 10 software including setup, settings, scheduling and more.',
     link: '/docs/wintv10/',
   },
+  {
+    title: 'Hauppauge Capture',
+    description: 'Documentation for Hauppauge Capture software.',
+    link: '/docs/hauppaugecapture/',
+  },
+  {
+    title: 'Troubleshooting',
+    description: 'Common issues and solutions for Hauppauge products.',
+    link: '/docs/troubleshooting/',
+  },
   // Future products can be added here:
   // {
   //   title: 'WinTV 8',
