@@ -7,15 +7,15 @@ sidebar_position: 5
 
 To bring up the Context Menu Options, click your **right** mouse button inside the TV window.
 
-You can also click the context menu button ![](images/image61.png)at the bottom of the WinTV main window.
+You can also click the context menu button ![](images/image61.png) at the bottom of the WinTV main window.
 
  
 
-![](images/image82.jpg)
+![](images/context_menu.PNG)
 
 The following Context Menu options are available:
 
-### Option "Open File"
+### Option "Open/Edit File"
 
 Click to open "recorded video files" directory to playback a file.
 

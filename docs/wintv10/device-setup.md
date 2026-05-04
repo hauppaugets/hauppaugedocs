@@ -3,8 +3,6 @@ title: Device Setup Wizard
 sidebar_position: 3
 ---
 
-## Device Setup Wizard
-
 The Device Setup Wizard will launch the first time you open WinTV 10.
 
 ![](images/image62.jpg)
@@ -25,11 +23,11 @@ The available options are dependent on the WinTV product.
 
 You can select one or multiple selections if your product is capable of multiple inputs.
 
-If you have a HD PVR 2 or Colossus device, please go to [HD Capture Devices](#settings-devices).
+If you have a HD PVR 2 or Colossus device, please go to [HD Capture Devices](./external-inputs#hd-pvr-2-and-colossus-2)
 
-If you need to re-run the Device Setup Wizard please go to the [Devices](#settings-devices) menu in WinTV Settings.
+If you need to re-run the Device Setup Wizard please go to the [Devices](./settings#settings--devices) menu in WinTV Settings.
 
-### Scanning for ATSC Channels (Digital over-the-air TV, North America)
+## Scanning for ATSC Channels (Digital over-the-air TV, North America)
 
 *This section refers to WinTV models with an ATSC tuner or hybrid NTSC/ATSC tuner.*
 
@@ -51,7 +49,7 @@ In case not all channels are found, you can try the following and rescan for cha
 
 - Use an antenna signal booster.
 
-### Scanning for Clear QAM Digital Cable TV Channels (North America)
+## Scanning for Clear QAM Digital Cable TV Channels (North America)
 
 *This section refers to WinTV models with a digital cable (QAM) tuner.*
 
@@ -77,7 +75,7 @@ In case not all channels are found, you can try the following:
 
 - From the "Frequencies" drop down list select "HRC Cable Frequencies" and rescan for channels.
 
-### Channel Scan for Analog TV (Cable or Antenna)
+## Channel Scan for Analog TV (Cable or Antenna)
 
 *This section refers to products with a TV tuner for analog TV.*
 
@@ -141,7 +139,7 @@ If you select Tuner, you must select the incoming channel. Most common channels 
 
 Click **Next**.
 
-### Create Channel Range
+#### Create Channel Range
 
 Useful when not in the USA. You can add a range of channels to match with your Set Top Box.
 
@@ -153,7 +151,7 @@ In this example channels 2-100 will be added. Click **Next**.
 
 Channels will be added automatically, click **Next** to save the channels to the database.
 
-### Manual Entry
+#### Manual Entry
 
 ![](images/image5.jpg)
 

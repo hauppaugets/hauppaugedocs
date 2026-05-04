@@ -20,6 +20,11 @@ const products = [
     description: 'Common issues and solutions for Hauppauge products.',
     link: '/docs/troubleshooting/',
   },
+  // {
+  //  title: 'Test',
+  //  description: 'Test.',
+  //  link: '/docs/wintv12/',
+ // },
   // Future products can be added here:
   // {
   //   title: 'WinTV 8',

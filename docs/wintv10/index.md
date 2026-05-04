@@ -1,6 +1,6 @@
 ---
-title: WinTV 10 Overview
-sidebar_position: 1
+  title: WinTV 10 Overview
+  sidebar_position: 1
 ---
 
 <!--![](images/image54.png)-->
@@ -31,7 +31,7 @@ The majority of options can be selected by clicking on the **left-hand** mouse b
 
 **TV Guide** ![](images/image6.png) Click to open the TV Guide Menu (Only available for ATSC signals in North America)
 
-**Context Menu** ![](images/image58.png) Click to open the open the [Menu](#context-menu)
+**Context Menu** ![](images/image58.png) Click to open the open the [Menu](./context-menu#context-menu)
 
 **Start Recording** &nbsp;![](images/image78.png) Starts recording the currently watched channel.
 

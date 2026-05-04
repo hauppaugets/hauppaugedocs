@@ -140,7 +140,7 @@ The Recordings menu allows you see what has been recorded.
 
 *Note: If you delete a recording from within WinTV Recordings, it will be moved to the Recycle Bin.*
 
-**Sort By **will let you sort recordings by date or name. 
+**Sort By** will let you sort recordings by date or name. 
 
 ## TitanTV
 
