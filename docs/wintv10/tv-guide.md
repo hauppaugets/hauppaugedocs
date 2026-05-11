@@ -7,7 +7,7 @@ sidebar_position: 6
 
 WinTV 10 introduces a TV Guide available only for over-the-air ATSC signals.
 
-The **TV Guide** can be open from the [Context Menu](#context-menu)
+The **TV Guide** can be open from the [Context Menu](./context-menu#context-menu)
 
 ![](images/image41.jpg)
 
