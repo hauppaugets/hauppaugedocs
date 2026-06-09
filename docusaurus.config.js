@@ -11,8 +11,8 @@ const config = {
     v4: true,
   },
 
-  url: 'https://hauppaugets.github.io',
-  baseUrl: '/hauppaugedocs/',
+  url: 'https://hcwdocs.com',
+  baseUrl: '/',
 
   organizationName: 'hauppaugets',
   projectName: 'hauppaugedocs',
